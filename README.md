@@ -1,2 +1,3 @@
 # hello-world
-This is me, creating a repository to figure out how to work this thing.
+
+I'm an unapologetic nerd, gamer, and Pitbull lover. Trying to learn this JavaScript/TypeScript/React world...
